@@ -1,18 +1,18 @@
-# _{Application Name}_
+# _Arrays & Looping Practice: Groceries_
 
-#### _{Brief description of application}, {Date of current version}_
+#### _User inputs 5 grocery items and they appear in an unorderered list, 04/01/2019_
 
 #### By _**Marc Davies**_
 
 ## Description
 
-_{This is a detailed description of your application. Its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }_
+_User enters 5 grocery items. A function records those inputs and places them in an array. We then take that array and display it as a HTML unordered list._
 
 ## Setup/Installation Requirements
 
 * _Clone from GitHub_
 * _Open index.html_
-* _Alternatively, launch marclignarius.github.io/projectname_
+* _Alternatively, launch marclignarius.github.io/groceries_
 
 ## Known Bugs
 
